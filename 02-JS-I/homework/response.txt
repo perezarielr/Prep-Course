@@ -1,0 +1,17 @@
+* Variables:
+Una variable es un espacio en el programa que esta destinado a guardar un valor
+ y puede ser utilizada en cualquier momento, las Variables se les asigna un 
+ nombre que tenga relacion con la informacion que guarda. 
+ * Strings:
+ Un Strings es una secuencia de caracteres o bien una cadena de caracteres, que
+  se usa para representar un texto, siempre comienza y terminan con comillas ""
+ * Funciones (argumentos, `return`):
+ Una funcion en un bloque de codigo que realiza una operacion, se le puede difinir 
+ opcionalmente un parametro de entrada y permitir a los que llaman a la funcion pasar
+ ARGUMENTOS a travez de la misma
+ * Declaraciones `if`:
+ Es una sentencia condicional que se usa para tomar secisiones, evalua ona operacion 
+ lógica y devulve un valor si el resultado es verdadero
+ * Valores booleanos (`true`, `false`):
+ Los valores booleanos son un tipo de dato y son solo dos, true o false, verdadero o falso, 
+ son nombres reservados y no se pueden utilizar como nombre de variables.
