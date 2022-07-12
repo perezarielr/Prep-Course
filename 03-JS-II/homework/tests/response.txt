@@ -1,0 +1,16 @@
+* `for`
+El ciclo for:
+    Sirve para lograr que se repita un programa o instrucciones, la estuctura es la sig.
+Comienza con la palabra "for" seguida de parentesis, dentro de los parentesis necesitamos tres cosas,
+primero "declarar de una variable", segundo "la condicion" y tercero "incrementar la variable", las
+tres declaraciones están separadas por punto y coma, y el ciclo continuara hasta que se cumpla la 
+condicion.
+* `&&`, `||`, `!`
+Operadores logicos:
+    El primer operador logico es una "Y" ("AND"), simbolo (&&) compara y evalua expresiones, si ambas son verdaderas
+    devuelve "true" y si una o ambas son falsas devuelve "false".
+    El segundo operador logico es una "O" ("OR"), simbolo (||) compara y evalua expresiones, si una o ambas 
+    de las expresiones es verdadera devuelve "true" y devolvera "false" si ambas expresiones son
+    falsas.
+    El tercero y ultimo es un "NOT" ("NO"), simbolo (!) este operador devuelve el opuesta al que se le pasa, si recibe
+    un ("true") devolvera un ("false").
