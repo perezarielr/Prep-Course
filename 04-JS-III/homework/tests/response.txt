@@ -1,0 +1,3 @@
+* Arrays
+    Son listas de elementos, los elementos pueden ser  de cualquier tipo, son de gran importancia,
+    ya que permiten organizar series de datos bajo un mismo nombre pero se diferencian por un indice.
